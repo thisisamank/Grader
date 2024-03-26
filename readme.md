@@ -9,7 +9,7 @@ To run the code review script, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/thisisamank/Grader.git
     ```
 
 2. Install the required dependencies:
@@ -21,7 +21,7 @@ To run the code review script, follow these steps:
 
 4. Run the script:
     ```bash
-    python code_review.py
+    python main.py
     ```
 
 5. Enter the Git URL of the repository you want to review when prompted.
